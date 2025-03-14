@@ -21,3 +21,5 @@ pip install flask
    ```bash
    git clone https://github.com/<your-username>/ptud-gk-de-1.git
    cd ptud-gk-de-1
+##Link Project
+https://github.com/tronglehuu/ptud-gk-de-1.git
